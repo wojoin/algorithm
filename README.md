@@ -5,8 +5,16 @@
 - Searching and Sorting
 
 #### 第九章 中位数和顺序统计量
-| Title | Solution | Time Complexity |
+| ID| Name | Title | Solution | Time Complexity |
+| ------ | ------ | ------ | ------ | ------ |
+|1 | Simultaneous minimum and maximum |[find min and max usingminimum number of comparisons](https://github.com/wojoin/algorithm/blob/master/solutions/src/9.1-MinMax.cpp)  | C++ | O(n), O(3n/2)|
+|2 | Quick Sort | [quick sort](https://github.com/wojoin/algorithm/blob/master/solutions/src/7.1-QuickSort.cpp)  | C++ | O(nlgn)|
+|3 | Randomize Select| [Kth smallest element in the array](https://github.com/wojoin/algorithm/blob/master/solutions/src/9.2-RandomizeSelect.cpp)  | C++ | O(n)|
+
+
+# LeetCode
+### 
+| ID | Title | Difficulty |
 | ------ | ------ | ------ |
-| find min and max usingminimum number of comparisons  | C++ | O(n), O(3n/2)|
-| [quick sort](https://github.com/wojoin/algorithm/blob/master/solutions/src/7.1-QuickSort.cpp)  | C++ | O(nlgn)|
-| [Kth smallest element in the array](https://github.com/wojoin/algorithm/blob/master/solutions/src/9.2-RandomizeSelect.cpp)  | C++ | O(n)|
+| [215](https://leetcode.com/problems/kth-largest-element-in-an-array/)  | Kth Largest Element in an Array(Unsorted) | Medium |
+| [703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Kth Largest Element in a Stream | Easy |
